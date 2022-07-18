@@ -1,6 +1,6 @@
 # todominimalapi
 
-### Create Windows VM
+### Create Windows 10 Professional VM
 
 ### Install Visual Studio Community Edition
 
